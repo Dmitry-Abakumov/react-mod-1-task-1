@@ -1,0 +1,12 @@
+button {
+    padding: 4px 40px;
+    background-color: #111B47;
+    border-radius: 2px;
+    border: inherit;
+    color: #fff;
+
+    font-family:  'Roboto';
+    font-weight: 500;
+    font-size: 12px; 
+    line-height: 18px;
+}

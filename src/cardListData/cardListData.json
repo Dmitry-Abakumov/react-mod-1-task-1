@@ -1,0 +1,21 @@
+[
+    {
+        "id": "1",
+        "cardTitle": "Light",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.",
+        "url": "https://picsum.photos/200/300"
+    },
+    {
+        "id": "2",
+        "cardTitle": "Fast",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.",
+        "url": "https://picsum.photos/200/300"
+    },
+    {
+        "id": "3",
+        "cardTitle": "Powerful",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.",
+        "url": "https://picsum.photos/200/300"
+    }
+]
+    

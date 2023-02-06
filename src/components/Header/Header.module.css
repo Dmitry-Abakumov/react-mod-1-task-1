@@ -1,0 +1,17 @@
+.navListItem:not(:last-child) {
+    margin-right: 60px;
+}
+
+.navLink {
+    font-family: 'Roboto', sans-serif;
+    line-height: 24px;
+    color: #505F98;
+}
+
+.logo {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 38px;
+    color: #37447E;
+}
